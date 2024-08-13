@@ -1,0 +1,26 @@
+{
+	"QCustomSlideMenu": [{
+		"name": "widget_bottom_right",
+		"defaultSize": [{
+			"width": 0,
+			"height": 0
+		}],
+		"collapsedSize": [{
+			"width": 0,
+			"height": "parent"
+		}],
+		"expandedSize": [{
+			"width": 280,
+			"height": "parent"
+			
+		}],
+		"toggleButton": [{
+			"buttonName": "request_friend_button"
+		}],
+		"menuTransitionAnimation": [{
+			"animationDuration": 400,
+			"animationEasingCurve": "Linear"
+			
+		}]
+	}]
+}
